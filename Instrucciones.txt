@@ -1,1 +1,12 @@
-1. Crear una cuenta de usuario en github: https://github.com/
+1. Crear una cuenta de usuario en github: 
+	https://github.com/
+2. Instalar git: 
+	https://git-scm.com/
+
+Para base de datos:
+Instalar xampp
+	https://www.apachefriends.org/es/index.html
+Instalar staruml
+	https://staruml.io/
+
+
